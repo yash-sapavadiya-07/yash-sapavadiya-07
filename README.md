@@ -21,15 +21,16 @@
   <a href="mailto:yashsapavadiya22@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/yashsapavadiya22">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&rank_icon=github&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&border_radius=5" alt="streak stats" />
+</p>
 
 ###
 
@@ -43,24 +44,21 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently pursuing **Integrated Master of Science in IT** at Silver Oak University[cite: 10, 11].
-- 🏆 **4th Rank Nationally** in the National Entrepreneurship Challenge (NEC) at **IIT Bombay**.
-- 💡 Mentored **15+ peers** in coding at IGNITE Incubation Centre, improving project completion by **25%**[cite: 33].
-- 🎮 Co-led the technical team for **Playrize Games**, developing open-world experiences in Unity/Unreal[cite: 25].
+- 🎓 Currently pursuing **Integrated Master of Science in IT** at Silver Oak University.  
+- 🏆 **4th Rank Nationally** in the National Entrepreneurship Challenge (NEC) at **IIT Bombay**.  
+- 💡 Mentored **15+ peers** in coding at IGNITE Incubation Centre, improving project completion by **25%**.  
+- 🎮 Co-led the technical team for **Playrize Games**, developing open-world experiences in Unity/Unreal.  
 
 ### 🛠️ Featured Projects
 
-- **A CRAFT U:** Web development platform that reduced deployment time by **30%**[cite: 21, 22].
-- **School Management App:** Android application built with **Java/Kotlin & Firebase** for 500+ students[cite: 23].
-- **Weather Web App:** Python-based application featuring real-time API integration[cite: 24].
+- **A CRAFT U:** Web development platform that reduced deployment time by **30%**.  
+- **School Management App:** Android application built with **Java/Kotlin & Firebase** for 500+ students.  
+- **Weather Web App:** Python-based application featuring real-time API integration.  
 
 ### 📜 Certifications
-- **Electronic Arts:** Software Engineering & Product Management Simulations (2025)[cite: 36, 37].
-- **TATA & Deloitte:** Cybersecurity Analyst Simulations (2025)[cite: 38, 39].
-- **C-DAC Pune:** Diploma in Multilingual Programming[cite: 40].
+- **Electronic Arts:** Software Engineering & Product Management Simulations (2025).  
+- **TATA & Deloitte:** Cybersecurity Analyst Simulations (2025).  
+- **C-DAC Pune:** Diploma in Multilingual Programming.  
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false&border_radius=5" alt="streak stats" />
-</p>
