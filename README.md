@@ -1,3 +1,5 @@
+<h1 align="center">Hey 👋 I'm Yash Sapavadiya</h1>
+
 <p align="center">
   <img src="./assets/aurora-veil.svg" alt="{{name}} — {{tagline}}" width="100%" />
 </p>
@@ -21,12 +23,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-<h1 align="center">Hey 👋 I'm Yash Sapavadiya</h1>
 
 <p align="center">
   <strong>IT Student | Software & Game Developer | Entrepreneurship Enthusiast</strong>
