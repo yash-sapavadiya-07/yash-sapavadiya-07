@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="./assets/aurora-veil.svg" alt="{{name}} — {{tagline}}" width="100%" />
+</p>
+
+<table align="center" width="80%" border="0">
+  <tr>
+    <td valign="top" align="left">
+
+### currently
+{{currently_paragraph}}
+
+### writing
+{{writing_paragraph}}
+
+    </td>
+    <td valign="top" align="right" width="36%">
+      <em>"{{epigraph}}"</em><br>
+      <sub>— {{epigraph_attribution}}</sub><br><br>
+      <a href="{{website_url}}">{{website}}</a><br>
+      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <h1 align="center">Hey 👋 I'm Yash Sapavadiya</h1>
 
 <p align="center">
