@@ -37,7 +37,7 @@
 
 <h2>The tools behind the signal</h2>
 
-<img src="./assets/stack.svg" width="100%" alt="Technology stack: Python, Java, JavaScript, HTML/CSS, C/C++, PHP, SQL, Flask/Django" />
+<img src="stack.svg" width="100%" alt="Technology stack: Python, Java, JavaScript, HTML/CSS, C/C++, PHP, SQL, Flask/Django" />
 
 <table width="100%">
 <tr><td width="28%"><strong>Languages</strong></td><td>Python · Java · JavaScript · C · C++ · PHP · SQL</td></tr>
@@ -51,7 +51,7 @@
 
 <h2>Built, shipped, shared</h2>
 
-<img src="./assets/projects.svg" width="100%" alt="Projects: Weather Engine, Apex Hospital, EduManager, NANCY" />
+<img src="projects.svg" width="100%" alt="Projects: Weather Engine, Apex Hospital, EduManager, NANCY" />
 
 <table width="100%">
 <tr>
@@ -118,7 +118,7 @@
 <p><sub>KEEP THE SIGNAL MOVING</sub></p>
 <h2>Make something worth noticing</h2>
 <p>Open to internships and junior roles in Python, Java and full-stack development.</p>
-<img src="./assets/contact.svg" width="100%" alt="Contact" />
+<img src="contact.svg" width="100%" alt="Contact" />
 <p><a href="https://github.com/yash-sapavadiya-07">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/yashsapavadiya22">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:yashsapavadiya22@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://yashsapavadiya.netlify.app/">Website</a></p>
 <p><sub>yashsapavadiya · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
