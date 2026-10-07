@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D70122da138f9bed74ed00bfbd64bd9fb412ab6a0%26v%3D4&variant=living-identity&label=yashsapavadiya&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D70122da138f9bed74ed00bfbd64bd9fb412ab6a0%26v%3D4&variant=living-identity&label=yashsapavadiya&v=wow-living-identity-1&mode=dark" width="100%" alt="yashsapavadiya animated Living Identity portrait and ASCII name" />
+  <img src="https://www.gitskins.com/api/section/hero?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D70122da138f9bed74ed00bfbd64bd9fb412ab6a0%26v%3D4&variant=living-identity&label=yashsapavadiya&v=wow-living-identity-1&mode=dark" width="100%" alt="yashsapavadiya animated Living Identity portrait " />
 </picture>
 <p><strong>Frontend or full-stack engineer</strong> · India</p>
 <p>IT student specializing in software and game development with hands-on experience in Python, Java, and full-stack web technologies.</p>
