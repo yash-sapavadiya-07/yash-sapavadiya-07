@@ -37,7 +37,7 @@ I build projects with Flask / Django, Firebase and SQL, and I like shipping the 
 </div>
 
 <div align="center">
-<img src="./assets/title-journey.svg" width="100%" alt="Journey" />
+<img src="title-journey.svg" width="100%" alt="Journey" />
 </div>
 
 - 💼 **Python Development Intern** · Masterly Solutions Pvt Ltd · Mar–May 2026
