@@ -1,105 +1,193 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · YASH-SAPAVADIYA-07 · LIVE</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yash%20Sapavadiya&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Python%20%C2%B7%20Java%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Yash Sapavadiya banner" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=living-identity&label=yashsapavadiya&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=living-identity&label=yashsapavadiya&v=wow-living-identity-1&mode=dark" width="100%" alt="yashsapavadiya animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong> · India</p>
-<p>IT student specializing in software and game development with hands-on experience in Python, Java, and full-stack web technologies.</p>
-<p><a href="https://github.com/yash-sapavadiya-07">GitHub</a> &nbsp;·&nbsp; <a href="https://yashsapavadiya.netlify.app/">Website</a></p>
+<a href="https://github.com/yash-sapavadiya-07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Software+%26+Game+Developer;Python+%C2%B7+Java+%C2%B7+Flask+%C2%B7+Django;IT+Student+%C2%B7+Entrepreneurship+Enthusiast;Building+useful+things%2C+shipping+them+fast" alt="Typing animation" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad,%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-I.M.Sc.%20IT-F97316?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-22C55E?style=for-the-badge" />
+</p>
+
+<p>
+  <a href="mailto:yashsapavadiya22@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/yashsapavadiya22"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" /></a>
+  <a href="https://yashsapavadiya.netlify.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="28" alt="Portfolio" /></a>
+</p>
+
 </div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Identity, with signal</h2>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>IT student specializing in software and game development with hands-on experience in Python, Java, and full-stack web technologies.</p><p><strong>Focus:</strong> `HTML` · `Java` · `CSS`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>10</strong> repos<br /><strong>0</strong> stars<br /><strong>60</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&items=HTML%3A%3ACurrent%20focus%7CJava%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&items=HTML%3A%3ACurrent%20focus%7CJava%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="yashsapavadiya animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="yashsapavadiya animated technology stack" />
-</picture>
-
-<p align="center"><sub>HTML · Java · CSS · JavaScript · Batchfile · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&repos=yash-sapavadiya-07%2FApex-Hospital-Management-System%2Cyash-sapavadiya-07%2FNANCY-CHAT-BOT%2Cyash-sapavadiya-07%2FWeather-Engine-Real-Time-Python-Weather-Tracker&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&repos=yash-sapavadiya-07%2FApex-Hospital-Management-System%2Cyash-sapavadiya-07%2FNANCY-CHAT-BOT%2Cyash-sapavadiya-07%2FWeather-Engine-Real-Time-Python-Weather-Tracker&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="yashsapavadiya animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&repos=yash-sapavadiya-07%2FApex-Hospital-Management-System%2Cyash-sapavadiya-07%2FNANCY-CHAT-BOT%2Cyash-sapavadiya-07%2FWeather-Engine-Real-Time-Python-Weather-Tracker&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&repos=yash-sapavadiya-07%2FApex-Hospital-Management-System%2Cyash-sapavadiya-07%2FNANCY-CHAT-BOT%2Cyash-sapavadiya-07%2FWeather-Engine-Real-Time-Python-Weather-Tracker&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="yashsapavadiya animated project launch timeline" />
-</picture>
+## Identity, with signal
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/yash-sapavadiya-07/Apex-Hospital-Management-System">Apex-Hospital-Management-System</a></strong></p><p>A modern, Java-based Hospital Management System (HMS) featuring a robust Graphical User Interface (GUI).</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/yash-sapavadiya-07/NANCY-CHAT-BOT">NANCY-CHAT-BOT</a></strong></p><p>JAVA</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><p><strong><a href="https://github.com/yash-sapavadiya-07/Weather-Engine-Real-Time-Python-Weather-Tracker">Weather-Engine-Real-Time-Python-Weather-Tracker</a></strong></p><p>A Python-based real-time weather tracking application leveraging high-precision API integrations for accurate forecasts, live updates, and seamless da</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="62%" valign="top">
+
+IT student specializing in **software and game development**, with hands-on experience in **Python, Java, and full-stack web technologies**. I build academic and personal projects with Flask/Django, Firebase and SQL, and I like working with people who care about craft, context, and shipping the useful version.
+
+**Focus:** `Python` · `Java` · `Web` · `Game Dev`
+
+</td>
+<td width="38%" valign="top">
+
+**Quick facts**
+
+🎓 I.M.Sc. IT, Silver Oak University (2022–2026)<br/>
+💼 Python Development Intern, Masterly Solutions<br/>
+🏆 4th Rank Nationally, NEC – IIT Bombay<br/>
+🗣️ Gujarati · English · Hindi
+
+</td>
 </tr>
 </table>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Momentum, made visible</h2>
+## What moves the work
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="yashsapavadiya animated GitHub signal" />
-</picture>
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🐍 Python**<br/><sub>Current focus: Flask, Django, REST APIs</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**☕ Java**<br/><sub>Desktop apps, OOP, MVC architecture</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🎮 Game Dev**<br/><sub>Unity and Unreal Engine</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="yashsapavadiya contribution energy field" />
-</picture>
-
-<p align="center"><sub>1 day current streak · 9 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## The tools behind the signal
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&website=https%3A%2F%2Fyashsapavadiya.netlify.app%2F&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=yash-sapavadiya-07&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241416036%3Fu%3D3ccdaa96b80a6d71bbe40fd116c4add3172b6bf3%26v%3D4&website=https%3A%2F%2Fyashsapavadiya.netlify.app%2F&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="yashsapavadiya contact links" />
-</picture>
-<p><a href="https://github.com/yash-sapavadiya-07">GitHub</a> &nbsp;·&nbsp; <a href="https://yashsapavadiya.netlify.app/">Website</a></p>
-<p><sub>yashsapavadiya · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,php,html,css,flask,django,firebase,mysql,git,github,docker,flutter,androidstudio,vscode,unity,unreal&perline=10" alt="Tech stack" />
+
+<p><sub>Pandas · NumPy · TensorFlow · PyTorch · REST API · Agile/Scrum · CI/CD · chosen for the work, not the trend</sub></p>
+
 </div>
-Preview is free. Sign up to publish, copy, or download this template.
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## Built, shipped, shared
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[🌦️ Weather Engine](https://github.com/yash-sapavadiya-07/Weather-Engine-Real-Time-Python-Weather-Tracker)**<br/>
+Real-time forecast tracker that polls a JSON REST API, with a responsive UI and solid error handling.<br/>
+<sub>`Python` · `REST API`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[🏥 Apex Hospital Management System](https://github.com/yash-sapavadiya-07/Apex-Hospital-Management-System)**<br/>
+Desktop hospital admin app with MVC architecture: patient admissions, staff allocation, scheduling.<br/>
+<sub>`Java` · `Swing GUI` · `OOP`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🎓 EduManager](https://github.com/yash-sapavadiya-07/edumanager)**<br/>
+Student lifecycle system on Firebase Realtime DB, handling 500+ records with optimized search filters.<br/>
+<sub>`Python` · `Firebase`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 NANCY Chat Bot](https://github.com/yash-sapavadiya-07/NANCY-CHAT-BOT)**<br/>
+Rule-based conversational engine that parses text commands, triggers workflows, and handles bad input gracefully.<br/>
+<sub>`Rule-Based NLP`</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## Experience & honors
+
+- 💼 **Python Development Intern** · Masterly Solutions Pvt Ltd · Mar–May 2026
+- 🧑‍🏫 **Technical Mentor** · IGNITE Incubation Centre, Silver Oak University · mentored **15+ students**, lifting project completion by **25%**, and built prototypes for **10+ startup ideas**
+- 🏆 **4th Rank Nationally**, National Entrepreneurship Challenge, IIT Bombay · 🥇 Startup Bootcamp Champion (2023) · Campus Ideathon Winner (2022)
+- 🧭 **Co-Lead, Technical Dept.**, E-Cell COE, SOU · Chief Organizer, Campus IPR Summit & Ignite Illuminate Bootcamp
+
+### 📜 Certifications
+
+- **Electronic Arts:** Production Software Engineering & Technical Product Management Simulations (2025)
+- **Deloitte & TCS:** Cybersecurity Architecture / Analyst Simulations (2025)
+- **C-DAC Pune:** Multilingual Programming Diploma (2024)
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## Momentum, made visible
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yash-sapavadiya-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-sapavadiya-07&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sapavadiya-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sapavadiya-07&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+</picture>
+
+</div>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+## The trail behind the work
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yash-sapavadiya-07&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-sapavadiya-07&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+### Make something worth noticing
+
+<sub>Open to internships and junior roles in Python / Java / full-stack development.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
