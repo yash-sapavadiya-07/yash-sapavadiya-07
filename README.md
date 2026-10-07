@@ -17,7 +17,7 @@
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="62%" valign="top"><p>IT student specializing in software and game development with hands-on experience in Python, Java, and full-stack web technologies.</p><p><strong>Focus:</strong> `HTML` · `Java` · `CSS`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="62%" valign="top"><p>IT student specializing in software and game development with hands-on experience in Python, Java, and full-stack web technologies.</p><p><strong>Focus:</strong> `HTML` · `Java` · `CSS`· `Python`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
 <td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>10</strong> repos<br /><strong>0</strong> stars<br /><strong>60</strong> contributions<br /><strong>0</strong> followers</p></td>
 </tr>
 </table>
