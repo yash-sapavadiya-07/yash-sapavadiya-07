@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=&fontSize=0" width="100%" alt="" />
 
-<img src="./assets/avatar.png" width="260" alt="Yash Sapavadiya" />
+<img src="/avatar.png" width="260" alt="Yash Sapavadiya" />
 
 <h1>Yash Sapavadiya</h1>
 
