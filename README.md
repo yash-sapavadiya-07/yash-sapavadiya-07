@@ -69,8 +69,8 @@
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/yash-sapavadiya-07/NANCY-CHAT-BOT"><strong>NANCY-CHAT-BOT</strong></a></h3>
-<p>JAVA </p>
-<p><sub>Java · ⭐ 0</sub></p>
+<p>Python </p>
+<p><sub>Python · ⭐ 0</sub></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/yash-sapavadiya-07/Weather-Engine-Real-Time-Python-Weather-Tracker"><strong>Weather-Engine-Real-Time-Python-Weather-Tracker</strong></a></h3>
