@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Yash Sapavadiya – Software & Game Developer" />
+<img src="hero.svg" width="100%" alt="Yash Sapavadiya – Software & Game Developer" />
 
 </div>
 
 <div align="center">
-<img src="./assets/title-about.svg" width="100%" alt="About" />
+<img src="title-about.svg" width="100%" alt="About" />
 </div>
 
 <div align="center">
@@ -20,15 +20,15 @@ I build projects with Flask / Django, Firebase and SQL, and I like shipping the 
 </div>
 
 <div align="center">
-<img src="./assets/title-stack.svg" width="100%" alt="Stack" />
-<img src="./assets/skills.svg" width="100%" alt="Tech stack in 3D cubes" />
+<img src="title-stack.svg" width="100%" alt="Stack" />
+<img src="skills.svg" width="100%" alt="Tech stack in 3D cubes" />
 
 <sub>Also: Pandas · NumPy · TensorFlow · PyTorch · REST API · Git · Docker · Agile/Scrum · CI/CD</sub>
 </div>
 
 <div align="center">
-<img src="./assets/title-projects.svg" width="100%" alt="Projects" />
-<img src="./assets/projects.svg" width="100%" alt="Projects in 3D blocks" />
+<img src="title-projects.svg" width="100%" alt="Projects" />
+<img src="projects.svg" width="100%" alt="Projects in 3D blocks" />
 
 <a href="https://github.com/yash-sapavadiya-07/Weather-Engine-Real-Time-Python-Weather-Tracker"><b>Weather Engine ↗</b></a> &nbsp;·&nbsp;
 <a href="https://github.com/yash-sapavadiya-07/Apex-Hospital-Management-System"><b>Apex Hospital ↗</b></a> &nbsp;·&nbsp;
@@ -47,7 +47,7 @@ I build projects with Flask / Django, Firebase and SQL, and I like shipping the 
 - 📜 **Certifications:** Electronic Arts (Software Engineering & Product Management, 2025) · Deloitte & TCS Cybersecurity Simulations (2025) · C-DAC Pune Multilingual Programming Diploma (2024)
 
 <div align="center">
-<img src="./assets/title-stats.svg" width="100%" alt="Stats" />
+<img src="title-stats.svg" width="100%" alt="Stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yash-sapavadiya-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
@@ -67,11 +67,11 @@ I build projects with Flask / Django, Firebase and SQL, and I like shipping the 
 </div>
 
 <div align="center">
-<img src="./assets/title-contact.svg" width="100%" alt="Contact" />
+<img src="title-contact.svg" width="100%" alt="Contact" />
 
-<a href="mailto:yashsapavadiya22@gmail.com"><img src="./assets/btn-mail.svg" height="64" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/yashsapavadiya22"><img src="./assets/btn-linkedin.svg" height="64" alt="LinkedIn" /></a>
-<a href="https://yashsapavadiya.netlify.app/"><img src="./assets/btn-portfolio.svg" height="64" alt="Portfolio" /></a>
+<a href="mailto:yashsapavadiya22@gmail.com"><img src="btn-mail.svg" height="64" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/yashsapavadiya22"><img src="btn-linkedin.svg" height="64" alt="LinkedIn" /></a>
+<a href="https://yashsapavadiya.netlify.app/"><img src="btn-portfolio.svg" height="64" alt="Portfolio" /></a>
 
 <sub>Open to internships and junior roles in Python / Java / full-stack development.</sub>
 </div>
